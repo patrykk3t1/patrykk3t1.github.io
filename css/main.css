@@ -20,7 +20,13 @@
 	opacity: 0.8;
 }
 #kol2{
-	width: 80%;
+	width: 40%;
+	height:640px;
+	float: left;
+	
+}
+#kol3{
+	width: 40%;
 	height:640px;
 	float: left;
 	
